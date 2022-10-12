@@ -1,0 +1,19 @@
+{
+  "name": "rlcs_tournament_simulator",
+  "version": "1.0.0",
+  "description": "A terminal based RLCS Tournament Simulator.",
+  "main": "rlcs_tournament_simulator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexmitchelldev/rocket_league_tournament_simulator.git"
+  },
+  "author": "Mitchting",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexmitchelldev/rocket_league_tournament_simulator/issues"
+  },
+  "homepage": "https://github.com/alexmitchelldev/rocket_league_tournament_simulator#readme"
+}

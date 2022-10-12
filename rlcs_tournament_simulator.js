@@ -3,7 +3,7 @@ const classes = require('./classes.js');
 let GOAL_PROBABILITY = 60;
 
 const initSimulator = () => {
-    console.log('Welcome!');
+    showIntroductionMessages();
 };
 
 const playGame = (team1, team2) => {
@@ -89,3 +89,9 @@ const switchTeam = teamNumber => {
     
     return oppositeTeam;
 };
+
+const showIntroductionMessages = () => {
+    console.log('Welcome to the RLCS tournament simulator!');
+}
+
+initSimulator();

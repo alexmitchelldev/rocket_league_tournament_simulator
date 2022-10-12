@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/alexmitchelldev/rocket_league_tournament_simulator/issues"
   },
-  "homepage": "https://github.com/alexmitchelldev/rocket_league_tournament_simulator#readme"
+  "homepage": "https://github.com/alexmitchelldev/rocket_league_tournament_simulator#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
 }
